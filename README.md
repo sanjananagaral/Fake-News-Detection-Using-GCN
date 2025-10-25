@@ -4,5 +4,5 @@ This project focuses on detecting fake news using Graph Neural Networks (GNN), s
 Tech Stack
 - Programming Language: Python  
 - Frameworks & Libraries: PyTorch, PyTorch Geometric (GCNConv, DataLoader), NumPy, Pandas  
-- Environment: Jupyter Notebook, Google Colab  
+- Environment: Google Colab  
 - Dataset: UPFD (GossipCop)
